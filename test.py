@@ -1,1 +1,3 @@
 print 'xiaokun'
+
+print 'as'
